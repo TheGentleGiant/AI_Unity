@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\mirel.grigore\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\mirel.grigore\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AIStuff.-783757338.00" t="ExcludeRecursive" />
-    <e p="D:\Programming\Unity\AIStuff" t="IncludeRecursive">
+    <e p="C:\Users\mirel.grigore\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AIStuff.-632362203.00" t="ExcludeRecursive" />
+    <e p="D:\GitHubStuff\AI_Unity\AI_Unity\AIStuff" t="IncludeRecursive">
       <e p="AIStuff.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
@@ -32,6 +32,7 @@
           <e p="Move.cs" t="Include" />
           <e p="MoveLocal.cs" t="Include" />
           <e p="Rotate.cs" t="Include" />
+          <e p="SimpleCarAI.cs" t="Include" />
           <e p="WaypointFollow.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
