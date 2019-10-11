@@ -13,16 +13,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveLocal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaypointFollow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/WaypointProgressTracker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowPath.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Graphs/Node.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaypointFollow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCarAI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Graphs/Graph.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WaypointDebug.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WPManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Graphs/Edge.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -32,8 +30,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/WaypointFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveLocal.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SimpleCarAI.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/WPManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WPManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Windridge City Assets/Scripts/UIQuallityManager/UIQualityManager.cs" />
       </list>
     </option>
   </component>
@@ -88,6 +87,7 @@
       <workItem from="1569401755571" duration="2453000" />
       <workItem from="1569489656949" duration="6363000" />
       <workItem from="1570523020665" duration="5227000" />
+      <workItem from="1570783912270" duration="2393000" />
     </task>
     <servers />
   </component>
